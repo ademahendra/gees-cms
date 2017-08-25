@@ -1,0 +1,21 @@
+{
+    "name": "gees-studio/yii2-gees-cms",
+    "description": "Gees CMS",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Ade Mahendra",
+            "email": "ade.mahendra@live.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "gees\\cms\\": ""
+        }
+    }
+}
